@@ -1,0 +1,19 @@
+{
+  "name": "leetcode-js",
+  "version": "1.0.0",
+  "description": "weekly practice leetcode with js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfxmj2014/leetcode-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cfxmj2014/leetcode-js/issues"
+  },
+  "homepage": "https://github.com/cfxmj2014/leetcode-js#readme"
+}

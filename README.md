@@ -1,2 +1,2 @@
 # leetcode-js
-leetcode with js
+weekly practice leetcode with js
